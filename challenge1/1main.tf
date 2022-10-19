@@ -1,4 +1,4 @@
-## Deploy a 3 tier application with linux VMSS and Azure LB
+## Deploy a 3 tier application 
 terraform {
   required_version = "~> 1.3.0"
   required_providers {
